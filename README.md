@@ -1,4 +1,4 @@
-![Alt text](1.png)
+![Alt text](2.png)
 ```md
 # Chat With Multiple PDFs Using LangChain and Google Gemini Pro  
 
@@ -73,7 +73,7 @@ pip install -r requirements.txt
 ```
 
 ---
-![Alt text](2.png)
+![Alt text](1.png)
 
 ## ⚠️ Troubleshooting
 ### 1. Google API Key Error
